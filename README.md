@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="coding" width="300"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Adithya Liyanage</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
